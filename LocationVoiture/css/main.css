@@ -1,0 +1,100 @@
+#contenu {
+    width: 70%;
+    margin: auto;
+}
+
+#form {
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 145px;
+}
+
+html {
+    font-size: 100%;
+}
+
+#form .form-group {
+    margin-left: 20px !important;
+    color: black;
+}
+
+.card-img-top img {
+    width: 200px;
+    height: 100px;
+}
+
+#form .form-group input {
+    display: block;
+    width: 93%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+#form .form-group #log {
+    margin-right: 26px;
+}
+
+#pro {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+.pageProfile {
+    color: white;
+    background-color: #6c757d;
+    width: 235px;
+    height: 260px;
+    position: absolute;
+    right: 15px;
+    top: 48px;
+    border-radius: 10px 0px 10px 10px;
+}
+
+.user-header {
+    text-align: center !important;
+    padding: 10px;
+    height: 180px;
+    margin: 0;
+    color: #f7f7f7;
+
+}
+
+.user-header img {
+    border-radius: 50px;
+    width: 110px;
+    height: 110px;
+}
+.pageProfile li{
+    list-style:none;
+}
+
+.user-footer {
+    height: 50px;
+    padding: 10px;
+}
+
+.user-name-top {
+    color: #f7f7f7;
+}
+.pull-left a{
+    text-decoration: none;
+    color: white;
+}
+.fixed-top{
+    height: 50px !important;
+}
+.booking-cta{
+    color:white;
+}
+.booking-cta h1{
+    color:#ffc001;
+}
